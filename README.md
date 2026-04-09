@@ -1,10 +1,6 @@
 <h1 align="center">Portfolio of Aung Ko Myo</h1>
 
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" width="150" style="border-radius:50%;" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Researcher;Python+Developer;Data+Science+Enthusiast" />
 </p>
 
@@ -34,7 +30,7 @@ Coffee ☕ + Curiosity 🤖 = Research Mode ON 🚀
 
 <td align="center">
 
-<img src="YOUR_IMAGE_LINK_HERE" width="220"/>
+<img src="https://github.com/user-attachments/assets/15617b2c-2aa8-4f0b-adff-ac07432e22f3" width="220"/>
 
 </td>
 </tr>
@@ -73,6 +69,20 @@ Coffee ☕ + Curiosity 🤖 = Research Mode ON 🚀
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=data06-akm&theme=radical" />
+</p>
+
+---
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/CqJQZqqZMX?theme=dark&ext=heatmap" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/CqJQZqqZMX/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
 
 ---
