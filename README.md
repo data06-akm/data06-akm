@@ -24,7 +24,7 @@ Hello! I'm **Aung Ko Myo**, an aspiring **AI/ML Researcher** focused on building
 - Grow as an AI researcher  
 
 ### ⚡ Fun Fact
-Coffee ☕ + Curiosity 🤖 = Research Mode ON 🚀  
+Chai ☕ + Curiosity 🤖 = Research Mode ON 🚀  
 
 </td>
 
