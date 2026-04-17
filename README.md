@@ -30,7 +30,7 @@ Chai ☕ + Curiosity 🤖 = Research Mode ON 🚀
 
 <td align="center">
 
-<img src="https://github.com/user-attachments/assets/15617b2c-2aa8-4f0b-adff-ac07432e22f3" width="220"/>
+<img src="https://github.com/user-attachments/assets/15617b2c-2aa8-4f0b-adff-ac07432e22f3" width="500"/>
 
 </td>
 </tr>
